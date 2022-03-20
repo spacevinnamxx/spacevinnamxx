@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @spacevinnamxx
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋
+Welcome to my GitHub profile!
+About me ⚡
+I'm SpaceVin
+I'm 19 years old.
+I'm a FiveM Developer & Full-Stack Web Developer.
+Languages I know:
 
-<!---
-spacevinnamxx/spacevinnamxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
