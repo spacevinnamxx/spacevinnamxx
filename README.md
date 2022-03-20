@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="none" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacevin" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sp4c3w0t/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sp4c3w0t/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/zt3C3NtNr6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/zt3C3NtNr6" height="30" width="40" /></a>
 </p>
