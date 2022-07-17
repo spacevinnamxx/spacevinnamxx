@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spacevinnamxx" alt="spacevinnamxx" /></a> </p>
 
 
-- 🔭 I’m currently working on **3067**
+- 🔭 I’m currently working on **Ricky Bot**
 
 - 🌱 I’m currently learning **FrameWorks**
 
