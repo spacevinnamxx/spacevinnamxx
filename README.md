@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Ricky Bot**
 
-- 🌱 I’m currently learning **FrameWorks**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **/**
 
